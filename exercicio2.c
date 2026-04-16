@@ -34,6 +34,6 @@ int main()
         printf("\n Opção inválida. \n");
         return 1;
     }
-    printf("O volume do cilindro é %.2f\n", volume);
+    printf("O volume do cilindro é %f\n", volume);
     printf("Total: R$%.2f\n", preco);
 }
