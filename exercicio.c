@@ -6,7 +6,7 @@ int main()
 
     while (1)
     {
-        printf("Digite o salário1 (0 para sair): ");
+        printf("Digite o salário (0 para sair): ");
         scanf("%f", &salario);
 
         if (salario == 0)
